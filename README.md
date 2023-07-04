@@ -1,4 +1,1 @@
-# streamlit-to-heroku-tutorial
-# spamclassifier
-# streamlit-to-heroku-tutorial
-# dsspamwebapp
+Deploy a machine learning model to allow user identify spam email.
